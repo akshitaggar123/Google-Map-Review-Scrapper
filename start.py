@@ -5,7 +5,10 @@ from selenium import webdriver  #webdriver to browse google map website
 from selenium.webdriver.common.action_chains import ActionChains #to perform action on webdriver
 import pandas as pd #to store it in DataFrame and store it in Excel File
 #libraries needed ends here
-API_key="AIzaSyBpt7uzx_FpSnHF6Rwwz50WOUDZjNIjDL4" #Google Map Dev API key
+
+
+API_key=""
+#Google Map Dev API key  #write your Google Maps API Key here
 
 
 
