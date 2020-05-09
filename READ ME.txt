@@ -1,0 +1,2 @@
+To run the script,replace chromedriver.exe with the version of Chrome browser installed in your PC, you have in your PC.
+Download link for chrome driver: https://chromedriver.chromium.org/
